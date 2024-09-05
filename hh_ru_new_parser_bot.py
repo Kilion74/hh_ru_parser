@@ -3,7 +3,7 @@ import requests
 import time
 
 # Здесь нужно вставить токен вашего бота
-API_TOKEN = '6741503598:AAEX60NY35-muOnSwB1-en3x1xubUhG168M'
+API_TOKEN = '#'
 bot = telebot.TeleBot(API_TOKEN)
 
 
